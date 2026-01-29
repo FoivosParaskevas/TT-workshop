@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works. Very nice work.
+4 Inverters
 
 ## How to test
 
-Explain how to use your project. It's tested very nicely.
+Blink twice :) 
 
 ## External hardware
 
